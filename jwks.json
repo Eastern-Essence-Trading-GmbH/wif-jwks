@@ -8,6 +8,15 @@
       "kid": "agenten-20261121-1054",
       "alg": "ES256",
       "use": "sig"
+    },
+    {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "HQ_IYHGKgT3IqcEXFG27Kl9rbEICAgSS9rCUD0gFJrI",
+      "y": "U5Z8W5ai9-TmqRM-q803NeL-5HZOYalMYXz1qj0Ndqk",
+      "kid": "agenten-20261121-1241",
+      "alg": "ES256",
+      "use": "sig"
     }
   ]
 }
