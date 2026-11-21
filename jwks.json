@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "aFzwtUu3kjj-rRK-DFzrOLybuFdN18AdzNmkskh1jww",
+      "y": "Su-Gfxjw3sLe95q1T6m2_yxtqG369hPywn4OoAIElD8",
+      "kid": "agenten-20261121-1054",
+      "alg": "ES256",
+      "use": "sig"
+    }
+  ]
+}
